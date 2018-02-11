@@ -69,6 +69,6 @@ public class ContactService {
         System.out.println("Test");
         ContactService contactService = new ContactService();
         DataLayer dataLayer = new DataLayer();
-        //dataLayer.createIndex();
+        dataLayer.createIndex();
     }
 }
