@@ -45,3 +45,5 @@
 
 
 Note: POSTMAN is used for all requests for convenience. Also attribute length contraints are imposed.
+
+*  *   ContactService.java is the file with all REST methods and main function.
